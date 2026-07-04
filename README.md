@@ -20,7 +20,7 @@ I believe small, focused teams can build remarkable things when they combine goo
 * Website: https://www.fullstacko.com
 * GitHub: https://github.com/renjivraman
 * LinkedIn: https://www.linkedin.com/in/renjivraman/
-* Bluesky: https://bsky.app/profile/renjivraman.bsky.social
+* Bluesky: https://bsky.app/profile/renjivraman.fullstacko.com
 
 ---
 
